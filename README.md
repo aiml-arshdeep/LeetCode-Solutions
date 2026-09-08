@@ -30,6 +30,7 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
