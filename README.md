@@ -41,6 +41,7 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 | [0283-move-zeroes](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0835-image-overlap](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -60,4 +61,8 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
