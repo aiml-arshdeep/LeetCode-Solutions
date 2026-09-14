@@ -22,6 +22,7 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
@@ -65,4 +66,8 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
