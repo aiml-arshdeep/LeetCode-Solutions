@@ -13,6 +13,7 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 | [0392-is-subsequence](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 | [0443-string-compression](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 | [0011-container-with-most-water](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,4 +82,5 @@ My daily progress solving data structures and algorithms questions on LeetCode.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aiml-arshdeep/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
